@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
+  <title id="title">Allure — Living wallpapers, at home on the Mac.</title>
+  <desc id="desc">A soft rose and plum banner with a cherry blossom, Allure wordmark, and the words Your desktop, a little more you.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#231b30"/><stop offset=".55" stop-color="#39243a"/><stop offset="1" stop-color="#24293f"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#e77bad" stop-opacity=".32"/><stop offset="1" stop-color="#e77bad" stop-opacity="0"/></radialGradient>
+    <linearGradient id="petal" x2=".8" y2="1"><stop stop-color="#ffd9ed"/><stop offset=".55" stop-color="#ef85ba"/><stop offset="1" stop-color="#d74691"/></linearGradient>
+  </defs>
+  <rect width="1280" height="400" rx="28" fill="url(#bg)"/>
+  <ellipse cx="1040" cy="180" rx="350" ry="340" fill="url(#glow)"/>
+  <path d="M0 330 Q300 220 630 332 T1280 280" fill="none" stroke="#f2b0d4" stroke-opacity=".12"/>
+  <path d="M0 353 Q370 252 670 350 T1280 310" fill="none" stroke="#f2b0d4" stroke-opacity=".08"/>
+  <text x="78" y="89" fill="#ebabc9" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="15" letter-spacing="5">MADE FOR YOUR MAC. MADE FOR YOU.</text>
+  <text x="73" y="209" fill="#fff5fc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="108" font-weight="650" letter-spacing="-5">Allure.</text>
+  <text x="80" y="264" fill="#f1dce9" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="27">Living wallpapers, at home on the Mac.</text>
+  <text x="81" y="329" fill="#c7b3c6" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="18">Your desktop, a little more you.</text>
+  <g transform="translate(1030 204)" fill="url(#petal)" stroke="#ffd0e6" stroke-opacity=".45">
+    <path id="p" d="M0 0 C-77-27-77-110-25-121 L0-103 25-121 C77-110 77-27 0 0Z"/>
+    <use href="#p" transform="rotate(72)"/><use href="#p" transform="rotate(144)"/><use href="#p" transform="rotate(216)"/><use href="#p" transform="rotate(288)"/>
+    <circle r="20" fill="#f7c3dd"/><circle r="9" fill="#fff0fa"/>
+  </g>
+  <rect x=".5" y=".5" width="1279" height="399" rx="28" fill="none" stroke="#eab2d0" stroke-opacity=".18"/>
+</svg>
